@@ -1,1 +1,1 @@
-# shooter-space
+#type space to shoot
